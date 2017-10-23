@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{DBA617B5-779A-0040-C1D7-EF624A0C0BAB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Brick.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Brick.cs" Line="36" Column="21" />
+      <File FileName="Assets/Scripts/Ball.cs" Line="18" Column="18" />
+      <File FileName="Assets/Scripts/Paddle.cs" Line="32" Column="37" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="30" Column="6" />
+      <File FileName="Assets/Scripts/MusicPlayer.cs" Line="31" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlockBreaker PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
